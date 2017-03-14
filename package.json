@@ -1,0 +1,29 @@
+{
+  "name": "express-oauth",
+  "version": "1.0.0",
+  "description": "Express oauth poc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevjose/express-oauth.git"
+  },
+  "keywords": [
+    "expressjs",
+    "mongoose",
+    "oauth2"
+  ],
+  "author": "kevjose91",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevjose/express-oauth/issues"
+  },
+  "homepage": "https://github.com/kevjose/express-oauth#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.0"
+  }
+}
